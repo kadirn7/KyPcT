@@ -11,6 +11,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KyPct.Data", "KyPct.Data\Ky
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KyPcT.Services", "KyPcT.Services\KyPcT.Services.csproj", "{8E879DEF-F67A-4A1F-A075-3AB9B917967C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KyPcT.Core", "KyPcT.Core\KyPcT.Core.csproj", "{B29EEFFE-6143-403D-AAC6-4F50D33F8FD4}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +35,10 @@ Global
 		{8E879DEF-F67A-4A1F-A075-3AB9B917967C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8E879DEF-F67A-4A1F-A075-3AB9B917967C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8E879DEF-F67A-4A1F-A075-3AB9B917967C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B29EEFFE-6143-403D-AAC6-4F50D33F8FD4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B29EEFFE-6143-403D-AAC6-4F50D33F8FD4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B29EEFFE-6143-403D-AAC6-4F50D33F8FD4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B29EEFFE-6143-403D-AAC6-4F50D33F8FD4}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
