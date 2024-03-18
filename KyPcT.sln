@@ -5,13 +5,13 @@ VisualStudioVersion = 17.9.34622.214
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "KyPcT", "KyPcT\KyPcT.csproj", "{DDB6BC33-B460-4A04-8ADF-78985861931B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KyPcT.Entities", "KyPcT.Entities\KyPcT.Entities.csproj", "{D79C9B12-FF9A-4758-995E-F18BD8E61536}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "KyPcT.Entities", "KyPcT.Entities\KyPcT.Entities.csproj", "{D79C9B12-FF9A-4758-995E-F18BD8E61536}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KyPct.Data", "KyPct.Data\KyPct.Data.csproj", "{7B4E05D9-F880-4953-B075-1ED33FDB86F1}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "KyPct.Data", "KyPct.Data\KyPct.Data.csproj", "{7B4E05D9-F880-4953-B075-1ED33FDB86F1}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KyPcT.Services", "KyPcT.Services\KyPcT.Services.csproj", "{8E879DEF-F67A-4A1F-A075-3AB9B917967C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "KyPcT.Services", "KyPcT.Services\KyPcT.Services.csproj", "{8E879DEF-F67A-4A1F-A075-3AB9B917967C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KyPcT.Core", "KyPcT.Core\KyPcT.Core.csproj", "{B29EEFFE-6143-403D-AAC6-4F50D33F8FD4}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "KyPcT.Core", "KyPcT.Core\KyPcT.Core.csproj", "{B29EEFFE-6143-403D-AAC6-4F50D33F8FD4}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
