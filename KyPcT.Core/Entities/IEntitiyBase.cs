@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace KyPcT.Core.Entities
 {
-    public interface IEntitiyBase
+    public interface IEntityBase
     {
 
     }

@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace KyPcT.Core.Entities
 {
-    public abstract class EntityBase:IEntitiyBase
+    public abstract class EntityBase:IEntityBase
     {       
         public virtual Guid Id { get; set; } = Guid.NewGuid();
         public virtual string CreatedBy { get; set; }

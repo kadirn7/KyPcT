@@ -1,4 +1,4 @@
-﻿using KyPcT.Core.Entities;
+﻿ using KyPcT.Core.Entities;
 
 namespace KyPcT.Entities.Entities
 {
